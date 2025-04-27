@@ -1,25 +1,6 @@
 -- https://discord.gg/zVehpHYV
 
 
-shared.LoaderTitle = "Đăng Ký Kênh Minh Phan";
-shared.LoaderKeyFrames = {
-    [1] = {
-        1,
-        10
-    },
-    [2] = {
-        2,
-        30
-    },
-    [3] = {
-        3,
-        60
-    },
-    [4] = {
-        2,
-        100
-    }
-};
 local v2 = {
     LoaderData = {
         Name = shared.LoaderTitle or "A Loader",
